@@ -47,7 +47,7 @@ class CayNhiPhan:                           # Class cây nhị phân
             self.Duyet_LNR(node.right)
 
 
-bst = CayNhiPhan()               
+bst = CayNhiPhan()            #bst = binary search tree   
 
 def menu():                             # Cái này tạo menu cho zuiii
     while True:
