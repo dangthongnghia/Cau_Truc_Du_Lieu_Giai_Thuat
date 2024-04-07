@@ -1,1 +1,1 @@
-Display the elements of the list
+system("cls");
